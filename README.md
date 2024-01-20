@@ -28,11 +28,11 @@ Elo / Match-Ranking Mechanics:
 
 
 
-					To-Do:
+To-Do:
 Decide on software features (user database, etc) and create wire diagram for system design
 Use GPT builder to tune question-writing
 					
-						Techstack
+Techstack
 Backend: Python (Flask)
 Frontend: HTML/CSS + Javascript
 
